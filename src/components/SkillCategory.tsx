@@ -1,7 +1,6 @@
 // components/SkillCategory.tsx
 import React from "react";
 import { Skill } from "./SkillsSection";
-
 interface SkillCategoryProps {
   categoryTitle: string;
   skills: Skill[];

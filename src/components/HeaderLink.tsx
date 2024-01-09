@@ -7,7 +7,11 @@ interface HeaderLinkProps {
 
 const HeaderLink: React.FC<HeaderLinkProps> = ({ href, text }) => {
   return (
-    <a href={href} className="text-gray-400 text-xl lg:text-2xl mr-4 lg:mr-6">
+    <a
+      href={href}
+      target="_blank"
+      className="text-gray-400 text-xl lg:text-2xl mr-4 lg:mr-6"
+    >
       {text}
     </a>
   );

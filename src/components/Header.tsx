@@ -28,6 +28,7 @@ const Header: React.FC = () => {
             href="https://github.com/eduardocappellotto"
             text="github"
           />
+          <HeaderLink href="https://dev.to/eduardocappellotto" text="dev.to" />
         </div>
       </section>
 
