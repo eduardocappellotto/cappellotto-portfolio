@@ -32,7 +32,7 @@ const Header: React.FC = () => {
         </div>
       </section>
 
-      <JobTitleButton href="/current-job" text="Software Engineer @ Demarco" />
+      <JobTitleButton text="Software Engineer @ Demarco" />
     </header>
   );
 };

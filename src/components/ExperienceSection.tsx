@@ -7,7 +7,7 @@ const ExperienceSection: React.FC = () => {
     <section className="my-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
       <div className="col-span-1 lg:col-span-1">
         <Card style={{ backgroundColor: "primary" }}>
-          <div className="flex">
+          <div className="flex flex-wrap">
             <h2 className="text-6xl font-bold self-start ml-2 mt-1">4+</h2>
             <div className="ml-4">
               <h3 className="text-xl font-semibold">
@@ -22,7 +22,7 @@ const ExperienceSection: React.FC = () => {
       </div>
       <div className="col-span-1 lg:col-span-1">
         <Card style={{ backgroundColor: "primary" }}>
-          <div className="flex">
+          <div className="flex flex-wrap">
             <div className="flex items-start">
               <h2 className="text-6xl font-bold self-start ml-2 mt-1">2+</h2>
             </div>

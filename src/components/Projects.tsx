@@ -19,7 +19,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
 
   return (
     <div
-      className="flex flex-col justify-between bg-white p-6 rounded-lg shadow-md h-48 cursor-pointer hover:opacity-70"
+      className="flex flex-col justify-between bg-white p-6 rounded-lg shadow-md cursor-pointer hover:opacity-70"
       onClick={handleCardClick}
     >
       <h3 className="text-xl font-semibold">{name}</h3>
