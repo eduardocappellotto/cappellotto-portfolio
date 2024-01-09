@@ -14,6 +14,7 @@ const HomePage: React.FC = () => {
       <CareerSummary />
       <SkillsSection />
       <ExperienceSection />
+      <JobTimeline />
       <ProjectsSection />
     </div>
   );
