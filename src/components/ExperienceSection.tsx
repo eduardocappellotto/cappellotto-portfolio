@@ -13,9 +13,9 @@ const ExperienceSection: React.FC = () => {
               <h3 className="text-xl font-semibold">
                 Years in software development
               </h3>
-              <p className="text-lg">
-                Adapting and creating solutions for customer's needs
-              </p>
+              <h3 className="text-lg">
+                Adapting and creating solutions for customer&apos;s needs
+              </h3>
             </div>
           </div>
         </Card>
