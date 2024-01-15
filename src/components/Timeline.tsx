@@ -11,7 +11,7 @@ const jobHistory: Job[] = [
     jobTitle: "Software Engineer @ SolarMarket",
     description:
       "Implemented a design system for the new front-end version of the solar energy CRM",
-    date: "Sept/2021 - Mar/2021",
+    date: "Sept/2020 - Mar/2021",
   },
   {
     jobTitle: "Software Engineer @ Qualicorp",
