@@ -20,10 +20,10 @@ const jobHistory: Job[] = [
     date: "Mar/2021 - Aug/2023",
   },
   {
-    jobTitle: "Software Engineer @Demarco",
+    jobTitle: "Software Engineer @Aprova Digital",
     description:
-      "Working especifically on a migration to enable the insert of new clients (BRFoods, MercadoLivre)",
-    date: "Sept/2023 - Today",
+      "Working within the startup legacy projects and newer project like an internal Docusign-like software and a AI-focused module within the original system. ",
+    date: "Feb/2024 - Today",
   },
 ];
 
