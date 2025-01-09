@@ -7,7 +7,7 @@ const CareerSummary: React.FC = () => {
       coding to deploy, embracing DevOps culture. Skilled in building and
       maintaining systems for various industries, from startups to established
       companies. Proficient in developing Design Systems, implementing
-      microservices architectures, and ensuring seamless communication within
+      microservice architectures, and ensuring seamless communication within
       applications.
     </h1>
   );

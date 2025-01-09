@@ -58,7 +58,7 @@ const peopleSkills: Skill[] = [
   {
     name: "Team Management ",
     description:
-      "Protector of entry and mid level team members. \n Encourage exchange of experiences between members via meetups or small group discussion around a work relatable topic.",
+      "Menthor of entry and mid level team members. \n Encourage exchange of experiences between members via meetups or small group discussion around a work relatable topic.",
   },
 ];
 

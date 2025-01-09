@@ -21,14 +21,14 @@ const mockProjects: Project[] = [
     githubLink:
       "https://github.com/eduardocappellotto/validacao-bancaria-brasileira",
     description:
-      "Package for validating Brazilian bank accounts input. Validates for the biggest 7 brazilian banks.",
+      "Package for validating Brazilian bank accounts input. Works with, at least, the 7 biggest banks in Brazil",
     tags: ["Finance", "Node.js", "Jest"],
   },
   {
     name: "Prove.it",
     githubLink: "https://github.com/eduardocappellotto/proveit-interface",
     description:
-      "Prove.it is a POC of a full-stack project where teachers can create assessments and ",
+      "Prove.it is a POC of a full-stack project where teachers can create assessments and students can do their homework!",
     tags: ["Quasar", "Vue 3", "Nest.js"],
   },
   {

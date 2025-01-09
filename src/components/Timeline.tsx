@@ -22,7 +22,7 @@ const jobHistory: Job[] = [
   {
     jobTitle: "Software Engineer @Aprova Digital",
     description:
-      "Working within the startup legacy projects and newer project like an internal Docusign-like software and a AI-focused module within the original system. ",
+      "Working within the startup legacy projects and newer project like an internal Docusign-like software and a AI-focused project. ",
     date: "Feb/2024 - Today",
   },
 ];
