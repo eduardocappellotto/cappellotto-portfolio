@@ -33,7 +33,7 @@ const mockProjects: Project[] = [
   },
   {
     name: "Portfolio",
-    githubLink: "https://github.com/eduardocappellotto/cappellotto-portfolio",
+    githubLink: "https://github.com/eduardocappellotto/eduardocappellotto.github.io",
     description: "The code for this own website, built in Next.js",
     tags: ["Next.js", "Typescript", "React.js"],
   },
